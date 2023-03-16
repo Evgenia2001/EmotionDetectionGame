@@ -9,7 +9,7 @@ public class TutorialInfoEditor : Editor
 	{
 		if (PlayerPrefs.HasKey(TutorialInfo.showAtStartPrefsKey))
 		{
-			((TutorialInfo)target).showAtStart = PlayerPrefs.GetInt(TutorialInfo.showAtStartPrefsKey) == 1;
+			((TutorialInfo)target).showAtStart = true;
 		}
 	}
 
@@ -21,7 +21,7 @@ public class TutorialInfoEditor : Editor
 
 		if (EditorGUI.EndChangeCheck ()) 
 		{
-			PlayerPrefs.SetInt(TutorialInfo.showAtStartPrefsKey, ((TutorialInfo)target).showAtStart ? 1 : 0);
+			PlayerPrefs.SetInt(TutorialInfo.showAtStartPrefsKey, 1);
 		}
 	}
 }

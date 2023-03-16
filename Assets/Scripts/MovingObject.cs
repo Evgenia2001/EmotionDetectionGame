@@ -40,10 +40,8 @@ namespace Completed
             {
                 StartCoroutine(SmoothMovement(end));
 
-                Debug.Log("True");
                 return true;
             }
-            Debug.Log("False");
             return false;
         }
 

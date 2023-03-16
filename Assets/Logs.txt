@@ -1,0 +1,997 @@
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion surprised
+Level Emotion neutral
+SAD
+SAD
+SAD
+SAD
+Assets\MoodMeBarracuda\Script\Mono\FaceDetector.cs(136,26): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+Assets\MoodMeBarracuda\Script\Mono\ManageEmotionsNetwork.cs(89,22): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+Assets\MoodMeBarracuda\Script\Mono\ManageEmotionsNetwork.cs(89,22): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+Assets\MoodMeBarracuda\Script\Mono\FaceDetector.cs(136,26): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+Level Emotion: neutral
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Level Emotion: sad
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Level Emotion: sad
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Level Emotion: neutral
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Level Emotion: sad
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Level Emotion: neutral
+SAD
+Level Emotion: sad
+SAD
+SAD
+SAD
+SAD
+Level Emotion: neutral
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Level Emotion: neutral
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+SAD
+SAD
+Level Emotion: sad
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Level Emotion: neutral
+Level Emotion: neutral
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Assets\MoodMeBarracuda\Script\Mono\ManageEmotionsNetwork.cs(89,22): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+Assets\MoodMeBarracuda\Script\Mono\FaceDetector.cs(136,26): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+Level Emotion: sad
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Level Emotion: sad
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Level Emotion: neutral
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+Assets\MoodMeBarracuda\Script\Mono\ManageEmotionsNetwork.cs(89,22): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+Assets\MoodMeBarracuda\Script\Mono\FaceDetector.cs(136,26): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+SAD
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Level Emotion: neutral
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+Level Emotion: sad
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: neutral
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Level Emotion: neutral
+SAD
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: neutral
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Assets\MoodMeBarracuda\Script\Mono\FaceDetector.cs(136,26): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+Assets\MoodMeBarracuda\Script\Mono\ManageEmotionsNetwork.cs(89,22): warning CS0618: 'DeprecatedWorkerExtensions.ExecuteAndWaitForCompletion(IWorker, Tensor)' is obsolete: 'Use Execute followed by CopyOutput and PrepareCacheForAccess instead.'
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Level Emotion: neutral
+Level Emotion: neutral
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: surprised
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Level Emotion: neutral
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+Level Emotion: Surprised
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SURPRISED
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+SAD
+SAD
+SAD
+SAD
+Level Emotion: Sad
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+SAD
+DEVICES LIST
+0 name e2eSoft iVCam isFrontFacing True
+Level Emotion: Neutral

@@ -1,0 +1,528 @@
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: surprised
+Name: parkWithEnemies
+Food amount: 2
+Enemy amount: 0
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: surprised
+Name: parkWithEnemies
+Food amount: 2
+Enemy amount: 2
+Player picked food
+Player killed an enemy
+Player picked food
+***************************************
+Level: 2
+Level emotion: neutral
+Name: parkWithEnemies
+Food amount: 2
+Enemy amount: 3
+***************************************
+Level: 3
+Level emotion: sad
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Player picked food
+Player picked food
+***************************************
+Level: 4
+Level emotion: sad
+Name: darkForest
+Food amount: 2
+Enemy amount: 0
+Player picked food
+Player picked food
+***************************************
+Level: 5
+Level emotion: neutral
+Name: forestWithEnemies
+Food amount: 2
+Enemy amount: 2
+Player picked food
+Player picked food
+***************************************
+Level: 6
+Level emotion: sad
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Player picked food
+***************************************
+Level: 7
+Level emotion: neutral
+Name: parkWithBird1
+Food amount: 2
+Enemy amount: 1
+Player killed an enemy
+Player picked food
+***************************************
+Level: 8
+Level emotion: sad
+Name: parkWithBird2
+Food amount: 2
+Enemy amount: 2
+Player picked food
+Player killed an enemy
+***************************************
+Level: 9
+Level emotion: neutral
+Name: parkCompanion
+Food amount: 2
+Enemy amount: 3
+
+GAME OVER
+Level: 9
+
+Player killed an enemy
+***************************************
+Level: 10
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: neutral
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Player picked food
+***************************************
+Level: 2
+Level emotion: surprised
+Name: parkWithBird1
+Food amount: 2
+Enemy amount: 1
+Player picked food
+***************************************
+Level: 3
+Level emotion: sad
+Name: parkWithBird2
+Food amount: 2
+Enemy amount: 2
+Player picked food
+***************************************
+Level: 4
+Level emotion: neutral
+Name: parkCompanion
+Food amount: 2
+Enemy amount: 3
+Player picked food
+***************************************
+Level: 5
+Level emotion: neutral
+Name: parkAfterCompanion
+Food amount: 2
+Enemy amount: 3
+Companion instantiated
+Player picked food
+Player picked food
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+
+Exit
+
+Player killed an enemy
+
+GAME OVER
+Level: 5
+
+Player killed an enemy
+***************************************
+Level: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: sad
+Name: darkForest
+Food amount: 2
+Enemy amount: 0
+Player picked food
+Player picked food
+***************************************
+Level: 2
+Level emotion: sad
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Companion instantiated
+***************************************
+Level: 3
+Level emotion: surprised
+Name: parkWithBird1
+Food amount: 2
+Enemy amount: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: neutral
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Companion instantiated
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Player is surprised, companion reacted
+Level emotion: surprised
+Name: parkWithEnemies
+Player is sad, companion reacted
+Food amount: 2
+Enemy amount: 2
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Player is sad
+Player is surprised
+Level emotion: surprised
+Name: parkWithEnemies
+Player is surprised
+Food amount: 2
+Enemy amount: 2
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Player is sad
+Player is surprised
+Level emotion: surprised
+Name: parkWithEnemies
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: neutral
+Name: parkWithoutEnemies
+Player is sad
+Food amount: 2
+Enemy amount: 0
+Companion instantiated
+Player is surprised
+Player picked food
+Player picked food
+Player is sad
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Player is sad
+Player is surprised
+Player is sad
+Level emotion: sad
+Name: darkForest
+Food amount: 2
+Enemy amount: 0
+Player picked food
+Player picked food
+Player is surprised
+***************************************
+Level: 2
+Level emotion: neutral
+Name: forestWithEnemies
+Food amount: 2
+Enemy amount: 2
+Player picked food
+Player picked food
+Player killed an enemy
+***************************************
+Level: 3
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: neutral
+Name: parkWithoutEnemies
+Player is sad
+Food amount: 2
+Enemy amount: 0
+Companion instantiated
+Player is surprised
+Player picked food
+Player picked food
+Player is sad
+Player is surprised
+Player is sad
+Player is surprised
+***************************************
+Level: 2
+Level emotion: neutral
+Name: parkWithBird1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+
+
+##########################################
+New Game
+
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Level emotion: neutral
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Companion instantiated
+***************************************
+Level: 2
+Level emotion: neutral
+Name: parkWithBird1
+Food amount: 2
+Enemy amount: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Player is surprised
+Level emotion: surprised
+Name: parkWithEnemies
+Player is sad
+Food amount: 2
+Enemy amount: 2
+
+##########################################
+New Game
+
+***************************************
+Level: 1
+Player is surprised
+Level emotion: surprised
+Name: parkWithEnemies
+Food amount: 2
+Enemy amount: 2
+Player is sad
+
+##########################################
+New Game
+Emotion Off: False
+
+***************************************
+Level: 1
+Player is surprised
+Level emotion: surprised
+Name: parkWithEnemies
+
+##########################################
+New Game
+Emotion Off: False
+
+***************************************
+Level: 1
+Level emotion: neutral
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Companion instantiated
+
+##########################################
+New Game
+Emotion Off: False
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+Emotion Off: False
+
+***************************************
+Level: 1
+
+##########################################
+New Game
+Emotion Off: False
+
+***************************************
+Level: 1
+Player is surprised
+Level emotion: Surprised
+Name: parkWithEnemies
+Player is sad
+Food amount: 2
+Enemy amount: 2
+Player is sad
+Player is sad
+
+##########################################
+New Game
+Emotion Off: False
+
+***************************************
+Level: 1
+Player is sad
+Level emotion: Sad
+Name: darkForest
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Food amount: 2
+Enemy amount: 0
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+Player is sad
+
+##########################################
+New Game
+Emotion Off: False
+
+***************************************
+Level: 1
+Level emotion: Neutral
+Name: parkWithoutEnemies
+Food amount: 2
+Enemy amount: 0
+Companion instantiated

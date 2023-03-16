@@ -8,7 +8,7 @@ namespace Completed
 		public int playerDamage; 							
 		public AudioClip attackSound1;						
 		public AudioClip attackSound2;						
-		
+		public int healthPoints = 2;	
 		
 		private Animator animator;							
 		private Transform target;							
@@ -62,10 +62,18 @@ namespace Completed
 			Player hitPlayer = component as Player;
 			
 			hitPlayer.LoseFood (playerDamage);
+			healthPoints--;
 			
 			animator.SetTrigger ("enemyAttack");
 			
 			SoundManager.instance.RandomizeSfx (attackSound1, attackSound2);
+
+			if(healthPoints == 0){
+				Statistics.LogStat("Player killed an enemy");
+				GameManager.instance.RemoveEnemyFromList (this);
+				Destroy(gameObject);
+			}
+			
 		}
 	}
 }
