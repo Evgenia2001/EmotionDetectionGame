@@ -26,6 +26,8 @@ namespace Completed
 
         public GameObject companion;
 
+        private bool hasSaidFood;
+
         private int food;
 #if UNITY_IOS || UNITY_ANDROID || UNITY_WP8 || UNITY_IPHONE
         private Vector2 touchOrigin = -Vector2.one;	
@@ -108,11 +110,16 @@ namespace Completed
         protected override void AttemptMove<T>(int xDir, int yDir)
         {
             food--;
-            if (food < 10)
+            if (food < 20 && !hasSaidFood)
             {
                 if (Companion.instance)
+                {
                     Companion.instance.Say("We're low on food");
+                    hasSaidFood = true;
+                }
             }
+            else if (hasSaidFood && food > 30)
+                hasSaidFood = false;
 
             foodText.text = "Stamina: " + food;
 

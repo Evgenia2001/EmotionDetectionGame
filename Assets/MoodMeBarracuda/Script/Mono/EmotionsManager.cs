@@ -209,7 +209,7 @@ namespace MoodMe
                                             if (Companion.instance)
                                             {
                                                 int random = Random.Range(0, 5);
-                                                string phrase = surprisedPhrases[random];
+                                                string phrase = sadPhrases[random];
                                                 Companion.instance.Say(phrase);
                                                 Statistics.LogStat("Companion reacted: " + phrase);
                                             }

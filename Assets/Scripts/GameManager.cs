@@ -100,6 +100,7 @@ namespace Completed
             "Okay, come on!",
             "Yeah!! Once more!");
             sadAfterCompanion.enemyCount = 0;
+            sadAfterCompanion.emotion = 1;
             sadAfterCompanion.companion = true;
             sadAfterCompanion.increaseEnemies = true;
             sadAfterCompanion.sad = surprisedAfterCompanion;
@@ -113,9 +114,9 @@ namespace Completed
             "Okay, come on!",
             "Yeah!! Once more!");
             parkAfterCompanion.companion = true;
-            parkAfterCompanion.sad = parkAfterCompanion;
-            parkAfterCompanion.neutral = parkAfterCompanion;
-            parkAfterCompanion.surprised = parkAfterCompanion;
+            parkAfterCompanion.sad = sadAfterCompanion;
+            parkAfterCompanion.neutral = surprisedAfterCompanion;
+            parkAfterCompanion.surprised = surprisedAfterCompanion;
             parkAfterCompanion.name = "parkAfterCompanion";
 
             StoryLevel parkWithoutEnemies = new StoryLevel("You walk through the park. Suddenly, you see some magical bird trapped by monster");
@@ -123,7 +124,7 @@ namespace Completed
             "Let's help that small bird",
             "Magical bird and monsters! That's interesting. Let's fight them!");
             parkWithoutEnemies.name = "parkWithoutEnemies";
-            parkWithoutEnemies.companion = true;
+            // parkWithoutEnemies.companion = true;
 
             StoryLevel parkCompanion = new StoryLevel("You found that magic bird. Now it will be you companion");
             parkCompanion.setAnswers("That's all?",
@@ -163,7 +164,7 @@ namespace Completed
             "Zombies! That's interesting. Let's fight them!");
             forestWithEnemies.sad = parkWithoutEnemies;
             forestWithEnemies.neutral = forestWithEnemies;
-            forestWithEnemies.surprised = parkWithoutEnemies;
+            forestWithEnemies.surprised = forestWithEnemies;
             forestWithEnemies.emotion = 1;
             forestWithEnemies.enemyCount = 2;
             forestWithEnemies.increaseEnemies = true;
@@ -300,6 +301,8 @@ namespace Completed
                 Statistics.LogStat("");
                 Statistics.LogStat("Exit");
                 Statistics.LogStat("");
+                int scene = SceneManager.GetActiveScene().buildIndex;
+                SceneManager.UnloadScene(scene);
                 Application.Quit();
             }
             if (playersTurn || enemiesMoving || doingSetup)
