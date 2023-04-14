@@ -120,7 +120,7 @@ namespace Completed
             parkAfterCompanion.name = "parkAfterCompanion";
 
             StoryLevel parkWithoutEnemies = new StoryLevel("You walk through the park. Suddenly, you see some magical bird trapped by monster");
-            parkWithoutEnemies.setAnswers("You are depressed! You don't want to save some bird, walk in the forest is better.",
+            parkWithoutEnemies.setAnswers("You are sad! You don't want to save some bird, walk in the forest is better.",
             "Let's help that small bird",
             "Magical bird and monsters! That's interesting. Let's fight them!");
             parkWithoutEnemies.name = "parkWithoutEnemies";
@@ -193,7 +193,7 @@ namespace Completed
             parkWithEnemies.name = "parkWithEnemies";
 
             StoryLevel deathOfKing = new StoryLevel("You are the mighty knight, you fought many monsters. But you were not ready for the next twist of fate. The King is Dead! Your father is Dead!");
-            deathOfKing.setAnswers("You are depressed! So you decided to walk in the forest alone.",
+            deathOfKing.setAnswers("You are sad! So you decided to walk in the forest alone.",
             "You start walking towards the castle.",
             "You are pleasantly surprised by this occasion. You run through the park, not noticing that you are surrounded by enemies");
             deathOfKing.sad = darkForest;
