@@ -193,7 +193,7 @@ namespace Completed
             parkWithEnemies.name = "parkWithEnemies";
 
             StoryLevel deathOfKing = new StoryLevel("You are the mighty knight, you fought many monsters. But you were not ready for the next twist of fate. The King is Dead! Your father is Dead!");
-            deathOfKing.setAnswers("You are sad! So you decided to walk in the forest alone.",
+            deathOfKing.setAnswers("Ohh,no! You are sad about king's death, so you decided to walk in the forest alone.",
             "You start walking towards the castle.",
             "You are pleasantly surprised by this occasion. You run through the park, not noticing that you are surrounded by enemies");
             deathOfKing.sad = darkForest;
